@@ -1,7 +1,5 @@
 # nodejs-geekbrains-lesson1
 
-<h1>Урок 1</h1><BR>
-<BR>
 <h2>Часть 1</h2>
 <b>hello.js</b>
 <p>Вывод консольного сообщения</p>
